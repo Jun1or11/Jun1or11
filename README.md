@@ -1,5 +1,5 @@
 <h2 align="left">
-¡Hola 👋! Mi nombre es Junior Ramos y soy estudiante de Programación de Perú 🇵🇪
+¡Hola 👋! Mi nombre es Junior Ramos 
 </h2>
 
 ###
