@@ -2,12 +2,7 @@
 Hi 👋! My name is Junior Ramos and I'm a Programming Student from Perú 🇵🇪
 </h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&layout=compact&theme=dracula&langs_count=10" height="150" />
-</div>
 
 ###
 
