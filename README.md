@@ -1,8 +1,6 @@
 <h2 align="left">
-Hi 👋! My name is Junior Ramos and I'm a Programming Student from Perú 🇵🇪
+¡Hola 👋! Mi nombre es Junior Ramos y soy estudiante de Programación de Perú 🇵🇪
 </h2>
-
-
 
 ###
 
@@ -10,10 +8,10 @@ Hi 👋! My name is Junior Ramos and I'm a Programming Student from Perú 🇵�
 
 ###
 
-<h3 align="left">🛠️ Languages & Technologies</h3>
+<h3 align="left">🛠️ Lenguajes y Tecnologías</h3>
 
 <div align="left">
-  <!-- Programming Languages -->
+  <!-- Lenguajes de Programación -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
@@ -32,7 +30,7 @@ Hi 👋! My name is Junior Ramos and I'm a Programming Student from Perú 🇵�
 <br>
 
 <div align="left">
-  <!-- Frameworks & Tools -->
+  <!-- Frameworks y Herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
@@ -48,19 +46,19 @@ Hi 👋! My name is Junior Ramos and I'm a Programming Student from Perú 🇵�
 
 ###
 
-<h3 align="left">📚 What I've Worked On</h3>
+<h3 align="left">📚 En qué he trabajado</h3>
 
 <ul>
-  <li>📌 CRUD applications (Java, Spring Boot, Angular)</li>
-  <li>📌 Database design & SQL (MySQL, MariaDB)</li>
-  <li>📌 Arduino projects & simulations</li>
-  <li>📌 OpenGL & Computer Graphics (C++)</li>
-  <li>📌 REST APIs & testing with Postman</li>
+  <li>📌 Aplicaciones CRUD (Java, Spring Boot, Angular)</li>
+  <li>📌 Diseño de bases de datos y SQL (MySQL, MariaDB)</li>
+  <li>📌 Proyectos y simulaciones con Arduino</li>
+  <li>📌 OpenGL y Computación Gráfica (C++)</li>
+  <li>📌 APIs REST y pruebas con Postman</li>
 </ul>
 
 ###
 
-<h3 align="left">📫 Contact</h3>
+<h3 align="left">📫 Contacto</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -70,5 +68,3 @@ Hi 👋! My name is Junior Ramos and I'm a Programming Student from Perú 🇵�
 ###
 
 <br clear="both">
-
-
