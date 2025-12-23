@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="160" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jun1or11&show_icons=true&theme=dracula" />
 
 ###
 
