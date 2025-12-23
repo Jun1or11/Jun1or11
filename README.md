@@ -4,7 +4,10 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jun1or11&show_icons=true&theme=dracula" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&width=500&lines=Estudiante+de+Programaci%C3%B3n;Java+%7C+Spring+Boot+%7C+Angular;C%2B%2B+%7C+OpenGL+%7C+Arduino;Bases+de+datos+MySQL+%7C+MariaDB;Siempre+aprendiendo+algo+nuevo"
+  alt="Typing SVG"
+/>
 
 ###
 
