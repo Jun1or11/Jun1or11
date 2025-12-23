@@ -76,5 +76,4 @@ Hi 👋! My name is Junior Ramos and I'm a Programming Student from Perú 🇵�
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
